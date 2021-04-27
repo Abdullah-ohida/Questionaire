@@ -1,4 +1,4 @@
-#!/home/whalewalker/Documents/mySite/venv/bin/python3
+#!/home/whalewalker/PycharmProjects/mySite/venv/bin/python
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 
